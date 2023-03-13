@@ -1,5 +1,6 @@
-#Abdubosit
-##Rihksiboyev
-##21 years old
+# Abdubosit
+## Rihksiboyev
+## 21 years old
 #### skills: HTML,CSS,JAVASCRIPT.
 # student in BSUIR
+## hobby: play football, coding
